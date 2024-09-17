@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyyy26
+- 👋 Hi, I’m Neil
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Bachelor of Science In Information Technology
 
