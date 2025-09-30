@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Neil
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning Bachelor of Science In Information Technology
+2nd Year - Bachelor of Science In Information Technology
 
 <!---
 Lyyy26/Lyyy26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
